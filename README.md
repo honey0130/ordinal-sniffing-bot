@@ -1,1 +1,1 @@
-# ordinal-sniffing-bot
+# Ordinal Sniffing Bot
